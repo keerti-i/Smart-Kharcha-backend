@@ -1,2 +1,2 @@
 # Smart-Kharcha
-DTI project 
+Smart Kharcha backend 
